@@ -1,0 +1,9 @@
+{
+	"name": "manasmandal14-azuredatafactory-eastus",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2640cd12-08d2-4457-9ec2-8c6136a9a506",
+		"tenantId": "c6f6a1f1-4f66-4173-afa6-bf4c43555b93"
+	}
+}
